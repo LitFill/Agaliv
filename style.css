@@ -7,3 +7,10 @@ body {
 h1 {
 	color: #4285f4;
 }
+
+#calculateBtn {
+	color: green;
+	background-color: darkgray;
+	border: none;
+	border-radius: 5px;
+}
